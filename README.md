@@ -14,15 +14,22 @@ Hello! I'm Monica, a passionate junior programmer with a strong foundation in we
   - CSS3 (Sass, SCSS)
   - React.js
   - TypeScript
+  - Angular
 
 - **Backend:**
   - Node.js
   - Express.js
+  - .NET
+  - Entity Framework
 
 - **Programming Languages:**
-  - Python
+  - C#
   - C++
   - JavaScript (ES6+)
+ 
+- **DataBase**
+  - MongoDB
+  - SqlServer  
 
 
 ## Get in Touch
